@@ -73,7 +73,7 @@ Output:
 
 }
 ```
-#### GET /api/v1/groups/:groupid
+#### /api/v1/groups/:groupid
 Input:
 ```
 GET /api/v1/groups/:id
