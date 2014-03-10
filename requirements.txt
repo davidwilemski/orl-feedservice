@@ -1,0 +1,13 @@
+backports.ssl-match-hostname==3.4.0.2
+bcrypt==1.0.2
+cffi==0.8.2
+futures==2.1.6
+mongoengine==0.8.7
+-e git+https://github.com/davidwilemski/openrunlog@409e3f1d8b28d20728378d671bd6952f1c48caf3#egg=openrunlog-master
+pycparser==2.10
+pymongo==2.6.3
+python-dateutil==2.2
+six==1.5.2
+tornado==3.2
+tornado-redis==2.4.16
+wsgiref==0.1.2
